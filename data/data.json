@@ -686,44 +686,37 @@
       {
         "name": "광장",
         "description": "주민들의 소통과 휴식을 위한 열린 공간",
-        "mainImage": "assets/images/community/hillstatelounge.jpg",
-        "image": "assets/images/community/hillstatelounge.jpg"
+        "mainImage": "assets/images/community/hillstatelounge.jpg"
       },
       {
         "name": "골프연습장",
         "description": "실내 골프 연습을 위한 전문 시설",
-        "mainImage": "assets/images/community/hillstategolf.jpg",
-        "image": "assets/images/community/hillstategolf.jpg"
+        "mainImage": "assets/images/community/hillstategolf.jpg"
       },
       {
         "name": "피트니스 클럽",
         "description": "최첨단 시설의 프리미엄 피트니스",
-        "mainImage": "assets/images/community/hillstatefitness.jpg",
-        "image": "assets/images/community/hillstatefitness.jpg"
+        "mainImage": "assets/images/community/hillstatefitness.jpg"
       },
       {
         "name": "GX룸",
         "description": "함께 운동할 수 있도록 마련된 공간",
-        "mainImage": "assets/images/community/hillstategx.jpg",
-        "image": "assets/images/community/hillstategx.jpg"
+        "mainImage": "assets/images/community/hillstategx.jpg"
       },
       {
         "name": "사우나",
         "description": "지친하루의 건강과 휴식을 위한 공간",
-        "mainImage": "assets/images/community/hillstatesauna.jpg",
-        "image": "assets/images/community/hillstatesauna.jpg"
+        "mainImage": "assets/images/community/hillstatesauna.jpg"
       },
       {
         "name": "도서관",
         "description": "조용한 독서와 학습을 위한 공간",
-        "mainImage": "assets/images/community/hillstatelibrary.jpg",
-        "image": "assets/images/community/hillstatelibrary.jpg"
+        "mainImage": "assets/images/community/hillstatelibrary.jpg"
       },
       {
         "name": "학습공간",
         "description": "집중 학습을 위한 독립된 공간",
-        "mainImage": "assets/images/community/hillstatereading.jpg",
-        "image": "assets/images/community/hillstatereading.jpg"
+        "mainImage": "assets/images/community/hillstatereading.jpg"
       }
     ]
   },
